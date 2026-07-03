@@ -1,0 +1,18 @@
+{
+   "schema_version": "1",
+   "onboarding_type": "copied",
+   "archived": false,
+   "maintained_action_name": "step-security/find-comment",
+   "upstream_full_repo_name": "peter-evans/find-comment",
+   "action_type": "node",
+   "last_release": {
+     "tag_name": "v4.0.0",
+     "created_at": "2026-03-30T04:31:47Z",
+     "published_at": "2026-03-30T05:13:26Z"
+   },
+   "sync": {
+     "ignore_presets": [
+       "defaults_v1"
+     ]
+   }
+ }
